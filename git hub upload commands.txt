@@ -1,0 +1,5 @@
+1 -- git init 
+2 -- git add . (here . means all the files in folder will ready to push in github)
+3 -- git commit -m "first commit"
+5 -- git remote add origin ........(from github)
+6 -- git push -u origin master 

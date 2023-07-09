@@ -1,0 +1,59 @@
+Class 3 (11 June 2023)
+
+Class 2 Revision 
+If else 
+nested if conditions 
+
+QUIZ 1 
+login authentication 
+email and password
+
+Git  =  Version Controlling 
+Github  = Cloud platform
+
+
+Git Installation 
+
+Git Commands
+
+first time commands 
+
+git config --global user.name ""
+git config --global user.email""
+
+
+git status
+
+
+1 -- git init 
+2 -- git add . (here . means all the files in folder will ready to push in github)
+3 -- git commit -m main
+4 -- git branch -M main
+5 -- git remote add origin ........
+6 -- git push -u origin master 
+
+git commit -m (all files push)
+
+ 
+
+git init
+git add .
+git commit -m (update main.dart and add new file newfile.dart)
+git push
+
+
+
+
+assignment
+github profile 
+
+
+
+
+
+
+
+
+
+
+

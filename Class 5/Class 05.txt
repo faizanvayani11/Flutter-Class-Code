@@ -1,0 +1,24 @@
+Class 05 
+
+1) Do While Loop 
+2) Nested For Loop 
+3) Stdout.write (print function will break the line but this function will not break a line for printing )
+4) dart run filename.dart (to run the program in terminal , write this command in terminal).
+
+Functions in Dart 
+
+Types of functions
+	when you donot define the type of function it will suppose the dynamic type 
+
+1) void
+2) dynamic
+3) and all data types
+
+
+we should have to define the proper data type .
+
+
+
+
+
+
