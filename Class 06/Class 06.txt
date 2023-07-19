@@ -1,0 +1,24 @@
+Flutter Dart Class 06
+
+
+? means optional ()(used in the end of data type)
+! means not null (used in the end of the values and variables)
+?? means generate the given value if the value is null (used in the last)
+
+turnary Operator 
+
+Arrow Function (the short hand of normal function)
+
+crud operations
+create = add
+read = print 
+update 
+delete
+
+
+Global Variable 
+
+
+
+
+
