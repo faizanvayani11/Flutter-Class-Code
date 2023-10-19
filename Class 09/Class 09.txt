@@ -1,0 +1,50 @@
+Class 09
+
+
+in dart classes there will be statless classes and stateful classes.
+in flutter every thing is widgets.
+
+polymorphism 
+
+Assignment 
+Watch Class 12 and 13 for more clearification of OOP concepts
+
+
+jis screen/classes main rebuild ho rhi ho woh class statefull hoti hy 
+jis screen/classes main kuch bhi change na ho woh stateless hoti hy 
+
+
+stateless class shortcut keys 
+stl
+
+and stf for statefull 
+
+
+
+
+ctrl d 
+for select all same keywords
+
+
+material app theme = home 
+
+
+complete screen is known as scaffold 
+
+
+
+
+
+make a folder for new project 
+rum cmd on that folder 
+enter the command "flutter create myappp"
+then enter the command "cmd flutter" (this command will also suggest by cmd on entering the first command)
+then open the vs code by entering the command "code ."
+then enable the developer option on your mobile device 
+then turn on the usb debugging in developer option on your mobile device
+then enter the command on terminal in vs code "flutter run" 
+
+
+
+
+ 

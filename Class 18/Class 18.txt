@@ -1,0 +1,35 @@
+Class 18
+
+collection reference form flutter fire 
+
+add user function 
+
+get vlaues function with future type 
+return users.add
+
+get vlaues function with stream type 
+return users.snapshots
+
+in main function 
+
+future builder 
+future getvalues()
+builder..
+
+same for stream 
+
+(if we getting document we have to use document snapshot 
+and for collection we have to use query snapshot )
+
+
+
+
+Week Tasks
+
+implementation of curd operations using firestore 
+chat App 
+to do app with firebase
+how to upload image in firebase storage
+
+
+

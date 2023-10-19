@@ -1,0 +1,35 @@
+Flutter Class 15
+
+Flutter Fire websie 
+in cli
+
+
+package firebase core is used to initialize in flutter 
+
+never forget to use these two things in main function 
+whenever you use the firebase in flutter project 
+
+void main () async
+1) WidgetFlutterBinding.ensureInitialized();
+2) Firebase.initializeApp(
+	options: DefaultFirebaseOptions.currentPlatform,)
+
+
+
+there are two types of data 
+future data => updaate on reload 
+streams data => continously Updating
+
+
+
+
+
+
+
+
+
+
+
+
+
+

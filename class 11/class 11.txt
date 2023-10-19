@@ -1,0 +1,23 @@
+Class 11
+
+setstate 
+(setstate)
+
+safe area 
+
+listview
+
+listtile have a auto scroll widget
+
+itembuilder (loop)
+
+
+
+
+
+
+
+
+
+
+

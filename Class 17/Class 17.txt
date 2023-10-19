@@ -1,0 +1,30 @@
+Class 17 
+
+
+to do application 
+
+document snapshot
+query snapshot 
+
+
+Assignment in this week 
+
+firebase firestore code from smit video 27 
+snack bar 
+toaster 
+chat app 
+to do app
+
+
+chat app structure 
+
+users authentications 	
+class 15 (set login signup)
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+Class 13
+
+Name roots 
+
+
+
+
+initstate 
+(super.initstate)
+
+
+for splash scrren 
+	in init state we create the screen code then we navigate it to main 
+	screen and set the time delay for 2 to 3 seconds 
+
+pub.dev (website)
+in which all the packages are available	
+
+
+(difference between plugins and packages)
+
+
+when we use the native(cotlin, android)/core lang for the customize code that is called a plugins 
+when we use the specific programming language for custom coding that is called the packages
+
+
+synchronus programming 
+did not wait for the first line code to get result of it and execute the other line code  
+
+asynchronus programming 
+will wait for each line result then execute the other code
+
+asyn keyword will use in the parameter of function 
+await keyword is used to make asynchronus programming 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task for Home 
+
+flutter launcher icon 
+fonts 
+naming roots
+
+
+
+
+
+
+
+	

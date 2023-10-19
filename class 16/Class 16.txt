@@ -1,0 +1,24 @@
+Class 16
+
+CircularPrgressIndicator() => circular loader 
+
+async => for future  (one time return or one time call data)
+async* => for stream  (continously returning a date )
+
+yield is used for continously returning , it is a type of return keyword
+
+assignment 
+flutter app icon change
+signup ke sth => user ka data firestore main add krna 
+toaster , snackbar , dialogs , loader etc 
+explore and user firestore {read, write, update , delete}
+
+15th October 2023 Mini Hackathon 
+
+
+
+
+
+
+
+

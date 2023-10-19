@@ -1,0 +1,82 @@
+class 12 
+
+
+topics to cover in todays class
+
+mediaquery 
+stack 
+fonts 
+explore figma 
+gridview handling
+expect ratio
+name routing
+splash screen
+app structure
+
+
+
+
+expanded 
+	container 
+	flex ()
+
+gridview 
+crossaxiscount
+mainaxisspacing
+crossaxisspacing
+childaspectratio
+
+
+
+mediaquery.of(context).size.height*0.5
+
+
+never use mediaquery in 
+margin 
+padding
+pictures
+
+
+stack works in lifo process
+we use 2 containers within the stack 
+then last created container will cover the first created conatiner 
+means the stack will only show the last widget only 
+
+
+position will only use in stack 
+
+
+
+0xff is the code for color giving in hashcode
+
+ctrl + alt = for knowing the padding in figma 
+
+
+
+
+my task 
+picture in circcleavatar
+tap bar 
+bottom navigation bar 
+fonts 
+splash screen
+drawer
+
+
+pub.dev py search krna ky different packages ko 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

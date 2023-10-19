@@ -1,0 +1,30 @@
+Class 14 
+
+today learning 
+get data through maps from global and fetch it on the home view screen 
+
+if we want to get the value from constructor in statefull class , we have use the widget keyword 
+to access the constructor value
+
+example of async await :
+jb ap items add to cart krwaye or cart wale page pr ja kr wahan se items remove krdein 
+then jb wapsi shop wale page pr return ayengy then uspr items count main update nhi hoga
+uske liye apko navigator.push pr async and await apply krna parega or phr navigator.push ke bd 
+ek setstate laga do usse kam yeh hoga ke async await yeh kam krega ke jb tk ap next page pr rahengy 
+us waqt tk woh usi line of code pr await krega jese hi ap return hongy then woh usi line se code agy run krega 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

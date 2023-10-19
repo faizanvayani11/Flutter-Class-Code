@@ -1,0 +1,79 @@
+flutter dart class 10 (Attendence not taken today)
+
+
+flutter widgets
+
+sizedbox
+listtile
+circle avatar 
+
+leading will start from left 
+title will start from center 
+trailing will start from right 
+
+
+listtile 
+	tilecolor
+	leading 
+		circleavatar
+			background color
+			radius
+			
+		title
+		subtitle
+		trailing
+
+
+	
+
+
+
+debugshowcase
+
+
+padding : edgeinsets.symmetric(vertical: 5, horizontal : 15	)
+edgeinsets.only(bottom : 2)
+
+
+network image  (image.network (the image we used from internet ))
+asset image (the image we use from local disk)
+
+scaffold
+	body 
+	coloumn
+	children
+		circleavatar
+		child 
+
+
+
+
+homework 
+
+image with circleavatar
+container decoration 
+card 
+mediaquery 
+textfield -> how to get textfield text
+navigation (push and pop)
+navigation replacement 
+icons(Icons.icon_name)
+text styling 
+
+
+make whatsapp like chat screen and also use navigation 
+for second screen (use images on circle avatar)
+
+today we learnt
+listtile 
+custom widget (also using constructor)
+spacer
+images (network and assets)
+navigation (push / pop )
+circle avatar
+elevated button 
+center 
+
+
+
+
