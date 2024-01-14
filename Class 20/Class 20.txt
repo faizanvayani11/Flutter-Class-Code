@@ -1,0 +1,62 @@
+Class 20
+
+Api integration from YT
+
+get
+put 
+post 
+delete
+
+these are the some functions of api integrations
+
+State Managements:
+ 
+1) Stacked Management 
+
+2) BloC Management 
+BLoC (Business Logic Component): BLoC is a pattern that separates the presentation logic from the UI. It's commonly used with the flutter_bloc library, which provides tools for managing complex app states using streams and events.
+
+3) GetX Management 
+getX: getX is a package that provides both state management and navigation management. It is known for its simplicity and performance.
+
+4) Redux Management
+
+
+Best Approach of Architecture
+
+M(Model) 
+V(View) 
+VM(View Model)
+
+
+global widgets = can use in the whole project
+services = global functionalites for easy to use in whole project
+
+
+
+before using a scaffold
+we use a viewmodelbuilder.nonreactive
+OR
+we use a viewmodelbuilder.reactive
+
+singleton
+used only one/single instance/object in all classes
+
+
+
+list of short applications
+
+1) Google Maps Integration
+2) Google Ads
+3) Cam Scanner (Document Scanner)
+4) Qr Code Scanner
+5) FingerPrint 
+6) Audio Recording / Video Recording  
+7) Push Notification
+8) Payment Gateway => Stripe/Sandbox
+9) Web View
+10) Dark Theme
+11) Language Localisation
+
+flutter pub.dev
+flutter gems.dev

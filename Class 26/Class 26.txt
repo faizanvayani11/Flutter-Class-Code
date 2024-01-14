@@ -1,0 +1,157 @@
+Class 26
+
+what is dependency injection ?
+
+(get it) is package will use for the dependency injection 
+it will provide the singleton and more services in a single package 
+and stacked is by default provide the get it package 
+
+
+
+singleton have only object that will used in whole program 
+setup is a locator 
+
+
+local storage 
+
+gthub copilot 
+
+
+
+
+
+
+Interview questions
+
+async await 
+(synchronus programming will not wait for any function)
+(asynchronus programming will wait for any function on await)
+
+
+object oriented programming 
+
+Inheritence (extends)
+polymorphism 
+	overloading (not supported in dart)
+	overriding (supported in dart)
+
+	mixin (with keyword used instead of extends) ()
+
+Encapsulation (private( _ ) , public )
+	dart main encapsulation file level pr hoti hy class levels pr nhi 
+	agr koi attribute private rkhna hy tw usko alg file main rkhna parega 
+	same file main diffrent classes main private attributes get hojayengy 
+	
+	private , public is also known as access modifiers
+
+Abstraction 
+uses abstract keyword
+not compulsury to use all methods from the class which is abstract 
+
+
+interfaces (almost same as abstraction)
+uses implement keyword 
+compulsury to use all methods form the class which is implemented 
+
+
+FROM FLUTTER 
+
+State management 
+
+
+App lifeCycle 
+
+statefull lifecycle 
+	create 
+	init state
+	didchangedependencies
+	dirty 
+	build
+	clean
+	deactivate 
+	dispose 
+
+
+difference between stateless and statefull classes
+how many types of classes in flutter 
+
+
+did you work on google map 
+payment gateway (test 42424242)
+
+
+using list view  with coloumn will occur scroll problem 
+
+top section same rahe and bottom scroll kare (use expanded for it)
+
+how to handle responsiveness 
+(there are multiple approches for responsiveness)
+(depends on the different scenarios and conditions)
+(mediaquery , expanded , flexible, screen utils(package) )
+
+
+language localisation 
+
+http 
+dio 
+
+difference between plugins and packages 
+(plugins are written in native languages like cotlin and java) 
+(packages are written in dart programming )
+
+what is context 
+context is kind of information about any widget 
+
+what are keys  ?
+
+testing in flutter ?
+there are 3 types of testig 
+
+Widget testing (UI test)
+Unit test (Functionality Test)
+Integration Test (complete Module Test)
+
+future and stream
+Async and Async* 
+return and yield 
+
+solid principle (To Learn by own)
+
+Design patterns (To Learn by own)
+
+how many types of build in flutter 
+
+debug mode 
+release 
+profile 
+
+
+do you upload any flutter app in play store
+App bundle 
+flutter build app bundle 
+
+
+how to send images in api 
+multi-part API
+
+
+
+leetcode
+hackerrank 
+
+DSA (Data Structures)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

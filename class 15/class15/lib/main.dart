@@ -1,6 +1,6 @@
 import 'package:class15/firebase_options.dart';
-import 'package:class15/loginview.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:class15/loginview.dart';
 import 'package:flutter/material.dart';
 // import 'homeview.dart';
 

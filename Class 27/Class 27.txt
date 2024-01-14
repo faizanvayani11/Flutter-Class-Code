@@ -1,0 +1,64 @@
+Class 27
+
+Flutter End 
+
+Backend Start
+(JavaScript [ Node Js ])
+
+
+to print in js
+console.log(a)
+
+data types
+
+var	 (global scope)
+let 	(block level scope)
+const 	(value will be intiialized only once)
+
+if we not define a data type with variables it will get the default data type which is "var"
+
+for concatenation 
+
+back tic syntax (template literals) => ` 
+
+ = = this operator is used for checking the equal value 
+ = = = this operator will also check the data type of them 
+
+javascript callbacks
+
+function parameter conains another function 
+
+
+Reference Book 
+
+A Smarter Way To Learn Java Script
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

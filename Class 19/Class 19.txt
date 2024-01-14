@@ -1,0 +1,34 @@
+Class 19
+
+
+bottom navigation bar 
+app menu bar 
+
+there are two types of api calling packages 
+dio (advanced , expertise)
+http
+	
+base urls  (facebook.com)
+endpoints  (facebook.com/profile) (/profile is known as the endpoints)
+query snapshot (http or https)
+
+uri.https ('base url' , 'endpoints'  'query snapshot')
+
+
+headers (used in private api's)
+	data of data 
+
+
+
+how to create a model 
+
+json to dart 
+
+
+
+
+
+
+
+
+

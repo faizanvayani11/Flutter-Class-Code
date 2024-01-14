@@ -1,0 +1,95 @@
+Class 28
+
+
+
+these are the node js framework to perform backend tasks
+1) express 
+2) nest js 
+3) nuxtjs
+
+
+javascript 
+super set of javascript is textscript
+
+we use express in node js for backend 
+
+
+Yousuf qutubuddin 
+
+
+
+fs 
+file system 
+
+unlink to delete the file 
+append function to update the file 
+path to check or change the path 
+
+
+http.createServer 
+creatinng server with only node without using express
+
+npm (pub.dev)
+
+npm init 
+npm i express nodemon 
+npm start 
+
+express and nodemon are the packages like we use to do in flutter
+
+
+
+
+step by step
+
+npm init 
+npm install express nodemon 
+in package. json ("start": "nodemon static.js",)
+add this command above test 
+then run the command npm start 
+
+
+
+
+Home Work 
+
+Create account in mongoDB 
+and create a clusters 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

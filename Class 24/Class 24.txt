@@ -1,0 +1,15 @@
+Class 24
+
+Api Integration 
+get 
+post 
+put = update 
+delete
+
+crud crud website for the dummy api's
+
+
+local storage in next class 
+reactive listener in next class
+getX
+

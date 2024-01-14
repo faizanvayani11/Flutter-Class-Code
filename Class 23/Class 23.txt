@@ -1,0 +1,43 @@
+Class 23
+
+flutter pub add stacked 
+
+read the documentation of stacked 
+
+dev dependicies will help the developer in coding 
+
+dev dependencies 
+build runner 
+stacked generator
+
+
+difference between reactive and non reactive 
+
+flutter build runner command 
+
+in next class 
+reactive listener 
+
+open crud crud website for free api 
+
+API's
+put 
+post 
+get 
+
+
+To Learn 
+Stacked State Management 
+Get Api
+
+
+
+
+
+
+
+
+
+
+
+

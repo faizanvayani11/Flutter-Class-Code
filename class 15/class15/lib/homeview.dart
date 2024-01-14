@@ -14,8 +14,18 @@ class _HomeViewState extends State<HomeView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Home Screen"),
+        elevation: 50,
+        leading: IconButton(onPressed: () {}, icon: Icon(Icons.menu)),
+        title: Center(child: Text("Home Screen")),
         automaticallyImplyLeading: false,
+        actions: [
+          IconButton(
+            icon: Icon((Icons.notifications)),
+            color: Colors.black,
+            iconSize: 30,
+            onPressed: () {},
+          ),
+        ],
       ),
       body: Container(
         child: Column(

@@ -1,0 +1,32 @@
+Class 25
+
+Stacked_Cli
+install it into project 
+
+
+getX
+
+get package 
+
+3 Builders in Get
+
+get builder 
+getx
+obx
+
+
+reactive 
+auto listen the values and auto update and change thier states
+
+
+
+
+set state = rebuild ui = update (used in getX)
+
+view model widget (it is used for the )
+
+
+next class 
+
+interview questions
+get it 
